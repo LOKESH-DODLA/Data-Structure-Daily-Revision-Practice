@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Sum_Avg_Array
+public class Sum_Avg_Array
 {
     public static void main(String args[])
     {
